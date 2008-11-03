@@ -1,0 +1,5 @@
+= Authgasm is now called Authlogic
+
+Authgasm has changed it's name to Authlogic: http://github.com/binarylogic/authlogic
+
+Why I changed the name: http://www.binarylogic.com/2008/11/3/rip-gasm-make-way-for-logic
