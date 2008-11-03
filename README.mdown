@@ -1,4 +1,4 @@
-= Authgasm is now called Authlogic
+# Authgasm is now called Authlogic
 
 Authgasm has changed it's name to Authlogic: [http://github.com/binarylogic/authlogic](http://github.com/binarylogic/authlogic)
 
